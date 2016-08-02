@@ -7,14 +7,14 @@ title: rubinxie's home
 subtitle:
 description:
 author: rubinxie
-language:
+language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.xieyubin.com
 root: /
-permalink: :title/
+permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
@@ -71,3 +71,5 @@ deploy:
   type: git
   repo: https://github.com/xbingo/xbingo.github.com
   brach: master
+
+duoshuo_shortname: xbingo
