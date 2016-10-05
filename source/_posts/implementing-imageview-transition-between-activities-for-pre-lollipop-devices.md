@@ -21,6 +21,7 @@ categories: UI
 这是它用原生shared element transition实现的样子：
 ![](http://o6l8fqr7s.bkt.clouddn.com/set_3-1.gif "Shared element transition between activities on Android Lollipop.")
 
+<!-- more -->
 
 ### 使Activity透明
 
